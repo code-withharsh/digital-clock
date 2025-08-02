@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    /* background-color: blanchedalmond; */
+    background:url(https://as1.ftcdn.net/v2/jpg/03/62/14/92/1000_F_362149248_PjLNu8sdrBCyEB7Y96wVcHOEed3KOdTd.jpg);
+    background-size: cover;
+    overflow: hidden;
+
+} 
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color:black;
+    font-style: italic;
+    font-size: 25px;
+    letter-spacing: 4px;
+
+}
+.clock{
+    display: flex;
+}
+.clock div{
+    margin: 5px;
+    position: relative;
+}
+
+.clock span {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 80px;
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    color: white;
+    background: rgb(107, 94, 190);
+    opacity: 0.8;
+
+}
+.clock .text{
+    height: 30px;
+    font-size: 10px;
+    text-transform: uppercase;
+    background: darkblue;
+    letter-spacing:2px;
+    opacity: 0.8;
+}
+.clock #ampm{
+    bottom: 0;
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    font-size: 20px;
+    background: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
